@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+
+<meta charset="UTF-8">
+    
+<title>Star rating widget example</title>
+    
+<link rel="stylesheet" href="stylesheet.css">
+  
+</head>
+  
+
+<body>
+
+<table>
+		
+<tr>
+	
+
+<div id="background">
+	<div id="header">
+	<div>
+	<div>
+	<a href="index.html" class="logo"><img src="images/logo.png" alt=""></a>
+	<ul>
+	<li>
+		<a href="index.html" id="menu1">home</a>
+	</li>
+	<li class="selected">
+		<a href="readareview.html" id="menu2">Read a Review</a>
+		</li>
+		<li>
+		<a href="previewboard.html" id="menu3">Preview Board</a>
+		</li>
+		<li>
+		<a href="community.html" id="menu4">Community</a>
+		</li>
+		<li>
+		<a href="blog.html" id="menu5">blog</a>
+		</li>
+		</ul>
+		</div>
+		</div>
+		</div>
+
+		
+	<td width="800px">
+			 
+	<h1>Customer Reviews</h1>
+	
+		<span class="starRating">
+
+			<input id="rating5" type="radio" name="rating" value="5">
+
+			<label for="rating5">5</label>
+				
+			<input id="rating4" type="radio" name="rating" value="4">
+				
+			<label for="rating4">4</label>
+
+			<input id="rating3" type="radio" name="rating" value="3" checked>
+				
+			<label for="rating3">3</label>
+				
+			<input id="rating2" type="radio" name="rating" value="2">
+				
+			<label for="rating2">2</label>
+				
+			<input id="rating1" type="radio" name="rating" value="1">
+				
+			<label for="rating1">1</label>
+				
+<p>
+			  </span>
+			 </td>
+			<td>
+			
+
+
+	<h3>Most Recent Game Reviews</h3>
+			  
+		<span class="starRating">
+				
+		<input id="rating5" type="radio" name="rating" value="5">
+				
+		<label for="rating5">5</label>
+				
+		<input id="rating4" type="radio" name="rating" value="4">
+				
+		<label for="rating4">4</label>
+				
+		<input id="rating3" type="radio" name="rating" value="3" checked>
+				
+		<label for="rating3">3</label>
+				
+		<input id="rating2" type="radio" name="rating" value="2">
+				
+		<label for="rating2">2</label>
+				
+		<input id="rating1" type="radio" name="rating" value="1">
+				
+		<label for="rating1">1</label>
+			  
+
+</span>
+	  
+			</td>
+		<tr>
+		<tr>
+			<td width="800px">
+			 
+
+	<h3>Top Game Reviews</h2>
+			  
+		<span class="starRating">
+				
+		<input id="rating5" type="radio" name="rating" value="5">
+				
+		<label for="rating5">5</label>
+				
+		<input id="rating4" type="radio" name="rating" value="4">
+				
+		<label for="rating4">4</label>
+				
+		<input id="rating3" type="radio" name="rating" value="3" checked>
+				
+		<label for="rating3">3</label>
+				
+		<input id="rating2" type="radio" name="rating" value="2">
+				
+		<label for="rating2">2</label>
+				
+		<input id="rating1" type="radio" name="rating" value="1">
+				
+		<label for="rating1">1</label>
+			  
+
+</span><p> Grand Theft Auto game is literally my favorite game ever! This game is worth every single penny I have spent on it. I can't wait for the next updgrade.
+</em></p>
+			 
+</td>
+			<td>
+		
+	
+
+	<h3>Most Recent Game Reviews</h3>
+			  
+		<span class="starRating">
+				
+		<input id="rating5" type="radio" name="rating" value="5">
+				
+		<label for="rating5">5</label>
+				
+		<input id="rating4" type="radio" name="rating" value="4">
+				
+		<label for="rating4">4</label>
+				
+		<input id="rating3" type="radio" name="rating" value="3" checked>
+				
+		<label for="rating3">3</label>
+				
+		<input id="rating2" type="radio" name="rating" value="2">
+				
+		<label for="rating2">2</label>
+				
+		<input id="rating1" type="radio" name="rating" value="1">
+				
+		<label for="rating1">1</label>
+			 
+
+ </span>
+	  
+			</td>
+		<tr>
+		<tr>
+			<td width="800px">
+			 
+
+	<h3>Customer Reviews</h3>
+			  
+		<span class="starRating">
+				
+		<input id="rating5" type="radio" name="rating" value="5">
+				
+		<label for="rating5">5</label>
+
+		<input id="rating4" type="radio" name="rating" value="4">
+				
+		<label for="rating4">4</label>
+				
+		<input id="rating3" type="radio" name="rating" value="3" checked>
+				
+		<label for="rating3">3</label>
+				
+		<input id="rating2" type="radio" name="rating" value="2">
+				
+		<label for="rating2">2</label>
+			
+		<input id="rating1" type="radio" name="rating" value="1">
+				
+		<label for="rating1">1</label>
+				
+
+
+</span><p> This is a place holder for game 2 review
+</em></p>
+			 
+</td>
+			<td>
+	
+
+
+
+<p>
+			  </span>
+			 </td>
+			<td>
+			
+		<h3>Most Recent Customer Reviews</h3>
+			  
+		<span class="starRating">
+				
+		<input id="rating5" type="radio" name="rating" value="5">
+				
+		<label for="rating5">5</label>
+				
+		<input id="rating4" type="radio" name="rating" value="4">
+				
+		<label for="rating4">4</label>
+				
+		<input id="rating3" type="radio" name="rating" value="3" checked>
+				
+		<label for="rating3">3</label>
+				
+		<input id="rating2" type="radio" name="rating" value="2">
+				
+		<label for="rating2">2</label>
+				
+		<input id="rating1" type="radio" name="rating" value="1">
+				
+		<label for="rating1">1</label>
+			  
+</span>
+	  
+			</td>
+		<tr>
+		</table>
+  </body>
+</html>
